@@ -4,7 +4,7 @@ About the files:
 vadf.m file is for evaluating VADF without any soft-error. 
 vadf_1b.m file is for evaluating VADF with 1b soft-error. 
 KNN_SVM_DNN.m and image_sharpening_smoothening.m files are for evaluating VADF in those applications. 
-
+KNN_SVM_DNN.m requires two csv files for MNIST dataset, that can be downloaded from https://www.kaggle.com/datasets/oddrationale/mnist-in-csv?resource=download. 
 
 Parameters, N = no. of total bits
 		k = signifier bits after leading one-bit
