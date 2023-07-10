@@ -1,4 +1,5 @@
-VADF: Versatile Approximate Data Formats
+VADF: Versatile Approximate Data Formats. 
+This is a collaborative research between IIT Kanpur, IIT Roorkee and TCS Research Lab Mumbai. 
 
 About the files: 
 vadf.m file is for evaluating VADF without any soft-error. 
