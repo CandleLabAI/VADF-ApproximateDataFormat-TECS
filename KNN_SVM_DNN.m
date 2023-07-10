@@ -1,5 +1,5 @@
 % This file implements KNN, SVM and DNN applications using VADF compression.
-
+% Below two csv files can be downloaded from https://www.kaggle.com/datasets/oddrationale/mnist-in-csv?resource=download. 
 train_data=readtable("mnist_train.csv","VariableNamingRule","preserve")
 test_data = readtable("mnist_test.csv","VariableNamingRule","preserve")
 train_data=train_data{1:20000,:}
